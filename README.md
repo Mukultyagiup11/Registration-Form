@@ -1,1 +1,1 @@
-"thi sis registration form"
+"this is registration form"
